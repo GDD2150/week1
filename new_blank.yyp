@@ -35,10 +35,13 @@
   },
   "name":"new_blank",
   "resources":[
+    {"id":{"name":"Bullet","path":"objects/Bullet/Bullet.yy",},},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"bad","path":"sprites/bad/bad.yy",},},
+    {"id":{"name":"bullet","path":"sprites/bullet/bullet.yy",},},
     {"id":{"name":"Pixel","path":"sprites/Pixel/Pixel.yy",},},
   ],
   "resourceType":"GMProject",
